@@ -1,1 +1,2 @@
-this is my kernel config file but u can see 
+t
+:is is my kernel config file but u can see 
